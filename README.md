@@ -66,7 +66,3 @@ If you encounter any bugs or have feature requests, please:
 For support or questions:
 - GitHub Issues: [Create an issue](https://github.com/upendrapant/realsight/issues)
 - Email: pantupendra97@gmail.com
-
----
-
-**Note**: This is an unofficial distribution. For the latest updates and source code, visit the [main repository](https://github.com/upendrapant/realsight).
