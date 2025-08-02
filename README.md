@@ -8,7 +8,7 @@ RealSight is an intelligent Flutter app that uses machine learning to detect whe
 
 ## 🔗 Download Latest Version
 
-**[⬇️ Download RealSight APK](https://github.com/upendrapant/realsight-apk/releases/latest/download/realsight.apk)**
+**[⬇️ Download RealSight APK](https://github.com/upendrapant/realsight-apk/releases/download/v1.0/Real.Sight.-.v1.0.0.apk)**
 
 ### Alternative Download Links:
 - [Download from Releases Page](https://github.com/upendrapant/realsight-apk/releases)
