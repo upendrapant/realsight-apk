@@ -39,7 +39,6 @@ RealSight is an intelligent Flutter app that uses machine learning to detect whe
 
 ## 📊 App Information
 
-- **Package Name**: `com.example.realsightapp`
 - **Version**: Latest
 - **Size**: 83 MB
 - **Minimum Android Version**: Android 5.0 (API level 21)
